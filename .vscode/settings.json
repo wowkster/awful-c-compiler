@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        ".env": "dotenv",
+        "*.toml": "toml",
+        "*.rs": "rust",
+        "lexer.h": "c",
+        "stdint.h": "c",
+        "stdio.h": "c",
+        "vector.h": "c",
+        "string.h": "c",
+        "stdlib.h": "c",
+        "assert.h": "c",
+        "_types.h": "c",
+        "__config": "c",
+        "util.h": "c"
+    }
+}
