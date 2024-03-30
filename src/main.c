@@ -34,7 +34,7 @@ int main(int argc, char** argv) {
         printf("Token: ");
 
         if (token.type != TOKEN_TYPE_EOF) {
-            printf("%-22s %s\n", token_type_to_str(token.type),
+            printf("%-32s %s\n", token_type_to_str(token.type),
                    token.value.buffer);
         } else {
             printf("EOF\n");
